@@ -11,7 +11,7 @@ Testmodel 这里我提供了一个英雄联盟拉克丝的模型资源，您也�
 
 具体的模型替换教程我会放在B站供大家参考：
 替换英灵模型
-视频教程地址：
+视频教程地址：https://www.bilibili.com/video/BV1oeDHYoEBh
 
 替换主句模型
 视频教程地址：
