@@ -1,0 +1,109 @@
+ManifestFileVersion: 0
+CRC: 1169592702
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fbffe55a529f43ef4530d17057cfdfb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3c0fd3903609630821c1995c16adc87
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CharacterReplace/1/Alex.images/Maris_D_1005.jpg
+- Assets/CharacterReplace/1/Alex.images/Arms.mat
+- Assets/CharacterReplace/1/Alex.images/Ears.mat
+- Assets/CharacterReplace/1/Alex.images/MergedBake_Baked.mat
+- Assets/CharacterReplace/1/Alex.images/Lashes A.png
+- Assets/CharacterReplace/1/Alex.images/Maris_D_1002.jpg
+- Assets/CharacterReplace/1/Alex.images/Cloth-C.png
+- Assets/CharacterReplace/1/Alex.images/Maris Eyebrow.mat
+- Assets/CharacterReplace/1/Alex.images/Hel_ribbon_base_T.png
+- Assets/CharacterReplace/1/Alex.images/Yun_Jin_-_Face.mat
+- Assets/CharacterReplace/1/Alex.images/Fingernails.mat
+- Assets/CharacterReplace/1/Alex.images/hel_hair02_base_T.png
+- Assets/CharacterReplace/1/Alex.images/Hel_ribbonfuchi_base_T.png
+- Assets/CharacterReplace/1/Alex.images/24_dress1_0.8_0_0.mat
+- Assets/CharacterReplace/1/Alex.images/25_ribbon1_0.5_1_1.mat
+- Assets/CharacterReplace/1/Alex.images/Cornea.mat
+- Assets/CharacterReplace/1/Alex.images/ElizaDressBT_D.png
+- Assets/CharacterReplace/1/Alex.images/WR_hair_flower.mat
+- Assets/CharacterReplace/1/Alex.images/hel_hair03_base.png
+- Assets/CharacterReplace/1/Alex.images/EyeMoisture.mat
+- Assets/CharacterReplace/1/Alex.images/G8_1TearOpacity.jpg
+- Assets/CharacterReplace/1/Alex.images/wr_hair.png
+- Assets/CharacterReplace/1/Alex.images/Maris_D_1003.jpg
+- Assets/CharacterReplace/1/Alex.images/Pupils.mat
+- Assets/CharacterReplace/1/Alex.images/7_R_m-hairShape-1_0.1_16_16.mat
+- Assets/CharacterReplace/1/Alex.images/Hel_ribbonfuchi_base.png
+- Assets/CharacterReplace/1/Alex.images/25_Hair1f_0.5_1_1.mat
+- Assets/CharacterReplace/1/Alex.images/Legs.mat
+- Assets/CharacterReplace/1/Alex.images/6_R_m-bodyShape-1_0.1_16_16.mat
+- Assets/CharacterReplace/1/Alex.images/Maris_D_1004.jpg
+- Assets/CharacterReplace/1/Alex.images/6_R_m-bodyShape-2_0.1_16_16.mat
+- Assets/CharacterReplace/1/Alex.images/Hair C.png
+- Assets/CharacterReplace/1/Alex.images/body 1.mat
+- Assets/CharacterReplace/1/Alex.images/WR_armor.mat
+- Assets/CharacterReplace/1/Alex.images/hel_hair03_base_T.png
+- Assets/CharacterReplace/1/Alex.images/24_panty_0.3_0_0.mat
+- Assets/CharacterReplace/1/Alex.images/25_Ribbon3(2)_0.5_1_1.mat
+- Assets/CharacterReplace/1/Alex.images/ElizaSkirt_D.png
+- Assets/CharacterReplace/1/Alex.images/SR_Jack O Valentine_Diffuse.png
+- Assets/CharacterReplace/1/Alex.images/hel_hair01_base.png
+- Assets/CharacterReplace/1/Alex.images/Maris_D_1006.jpg
+- Assets/CharacterReplace/1/Alex.images/25_ribbon2_0.5_1_1.mat
+- Assets/CharacterReplace/1/Alex.images/hel_hair02_base.png
+- Assets/CharacterReplace/1/Alex.images/Toenails.mat
+- Assets/CharacterReplace/1/Alex.images/ElizaArmsRS_D.png
+- Assets/CharacterReplace/1/Alex.images/wr_armor.png
+- Assets/CharacterReplace/1/Alex.images/Hel_ribbon_base.png
+- Assets/CharacterReplace/1/Alex.images/25_Hair3f_0.5_1_1.mat
+- Assets/CharacterReplace/1/Alex.images/Tear.mat
+- Assets/CharacterReplace/1/Alex.images/25_Hair2f_0.5_1_1.mat
+- Assets/CharacterReplace/1/Alex.images/Avatar_Girl_Pole_Yunjin_Tex_Hair_Diffuse.png
+- Assets/CharacterReplace/1/Alex.images/Maris_D_1001_MU_A.jpg
+- Assets/CharacterReplace/1/Alex.images/EyeSocket.mat
+- Assets/CharacterReplace/1/Alex.images/Avatar_Girl_Pole_Yunjin_Tex_Face_Diffuse.png
+- Assets/CharacterReplace/1/Alex.images/Body.mat
+- Assets/CharacterReplace/1/Alex.images/Irises.mat
+- Assets/CharacterReplace/1/Alex.images/24_button_0.8_0_0.mat
+- Assets/CharacterReplace/1/Alex.images/r00d_pants_COLOR.png
+- Assets/CharacterReplace/1/Alex.images/ElizaDress_D.png
+- Assets/CharacterReplace/1/Alex.images/24_skirt1_0.8_0_0.mat
+- Assets/CharacterReplace/1/Alex.images/Cloth C.png
+- Assets/CharacterReplace/1/Alex.images/Face.mat
+- Assets/CharacterReplace/1/Alex.images/24_rosebl1_0.8_0_0.mat
+- Assets/CharacterReplace/1/Alex.images/Lips.mat
+- Assets/CharacterReplace/1/Alex.images/Head.mat
+- Assets/CharacterReplace/1/Alex.fbx
+- Assets/CharacterReplace/1/Alex.images/Yun_Jin_-_Hair.mat
+- Assets/CharacterReplace/1/Alex.images/Sclera.mat
+- Assets/CharacterReplace/1/Alex.images/24_dress2_0.8_0_0.mat
+- Assets/CharacterReplace/1/Alex.images/Maris_Sclera_1006.jpg
+- Assets/CharacterReplace/1/Alex.images/Mouth.mat
+- Assets/CharacterReplace/1/Alex.images/hel_hair01_base_T.png
+- Assets/CharacterReplace/1/Alex.images/24_skirt3_0.8_0_0.mat
+- Assets/CharacterReplace/1/model.prefab
+- Assets/CharacterReplace/1/Alex.images/Teeth.mat
+Dependencies: []

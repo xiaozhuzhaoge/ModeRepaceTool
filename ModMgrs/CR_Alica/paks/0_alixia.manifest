@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 2679690546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0688b17161ad07cedaa750d240ce0f1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a58d12f2fc689b3c28cd8c9a2c621a93
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9ac8d30c6a0d9642a11e5be4c440740, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CharacterReplace/0_alixia/alixia.images/G8_1TearOpacity.jpg
+- Assets/CharacterReplace/0_alixia/alixia.images/Teeth.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Irises.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Cloth C.png
+- Assets/CharacterReplace/0_alixia/alixia.images/Face-C.jpg
+- Assets/CharacterReplace/0_alixia/alixia.images/EyeMoisture.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Sclera.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Lashes C.png
+- Assets/CharacterReplace/0_alixia/alixia.images/Tear.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/EYE HIL C.png
+- Assets/CharacterReplace/0_alixia/alixia.images/Face.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Torso-C.jpg
+- Assets/CharacterReplace/0_alixia/alixia.images/Arms.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Fingernails.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Pupils.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/EyeSocket.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/7_R_m-hiLightS-1_0.1_16_16.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/7_R_m-eyelashesShape-1_0.1_16_16.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Arms-C.jpg
+- Assets/CharacterReplace/0_alixia/alixia.images/Weapon C.png
+- Assets/CharacterReplace/0_alixia/alixia.images/6_R_m-sayaShape-1_0.1_16_16.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Lips.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Lashes A.png
+- Assets/CharacterReplace/0_alixia/alixia.images/EYE HIL A.png
+- Assets/CharacterReplace/0_alixia/alixia.images/Face C.png
+- Assets/CharacterReplace/0_alixia/alixia.images/Toenails.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/6_R_m-bodyShape-1_0.1_16_16.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/6_R_m-eye2S-1_0.1_16_16.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Legs-C.jpg
+- Assets/CharacterReplace/0_alixia/alixia.images/Legs.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Body.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/7_R_m-hairShape-1_0.1_16_16.mat
+- Assets/CharacterReplace/0_alixia/model.prefab
+- Assets/CharacterReplace/0_alixia/alixia.images/Ears.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Mouth.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/Eye-1.png
+- Assets/CharacterReplace/0_alixia/alixia.images/6_R_m-bodyShape-2_0.1_16_16.mat
+- Assets/CharacterReplace/0_alixia/alixia.images/G8FBaseMouthMapD_1005.jpg
+- Assets/CharacterReplace/0_alixia/alixia.images/Head.mat
+- Assets/CharacterReplace/0_alixia/alixia.fbx
+- Assets/CharacterReplace/0_alixia/alixia.images/Hair C.png
+- Assets/CharacterReplace/0_alixia/alixia.images/Cornea.mat
+Dependencies: []

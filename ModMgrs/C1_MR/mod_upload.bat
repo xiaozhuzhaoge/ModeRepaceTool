@@ -1,0 +1,1 @@
+D:\SteamMOD\ModPackage\steamcmd.exe +login <username> <password> +workshop_build_item D:\SteamMOD\MODSMgr\C1MR\mod.vdf +quit

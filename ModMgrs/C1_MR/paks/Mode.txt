@@ -1,0 +1,6 @@
+{
+   "baseOrder":2,
+   "type":"ReplaceModel",
+   "charTempId":"1",
+   "subFolderName":"1"
+}
