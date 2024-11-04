@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1182713266
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a31ea546616e06232ecba908bda46f38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3c0fd3903609630821c1995c16adc87
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CharacterReplace/1/1.images/LegsD.jpg
+- Assets/CharacterReplace/1/1.images/LuxD.jpg
+- Assets/CharacterReplace/1/1.images/LuxHairD.jpg
+- Assets/CharacterReplace/1/1.images/HeadD.jpg
+- Assets/CharacterReplace/1/1.images/EyesD.jpg
+- Assets/CharacterReplace/1/model.prefab
+- Assets/CharacterReplace/1/1.images/FaceD.jpg
+- Assets/CharacterReplace/1/1.fbx
+- Assets/CharacterReplace/1/1.images/ArmsD.jpg
+- Assets/CharacterReplace/1/1.images/G8_1FBaseMouthMapD_1006.jpg
+- Assets/CharacterReplace/1/1.images/BodyD.jpg
+Dependencies: []
